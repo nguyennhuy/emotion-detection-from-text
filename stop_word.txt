@@ -1,4 +1,5 @@
 ai
+ak
 ao
 ăn
 anh
@@ -26,6 +27,7 @@ gì
 ha
 hả
 hay
+hấy
 hk
 hoi
 hôi
@@ -56,6 +58,9 @@ này
 nó
 nói
 nữa
+oi
+ôi
+ơi
 phải
 pi
 pị
