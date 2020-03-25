@@ -3,6 +3,8 @@ ak
 ao
 ăn
 anh
+ban
+bạn
 bik
 biết
 bk
@@ -43,8 +45,10 @@ là
 lại
 lắm
 lm
+m
 ma
 mà
+mày
 mình
 nha
 như
